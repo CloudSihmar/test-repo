@@ -3,7 +3,7 @@ entries:
   git-repo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-21T19:56:26.514738222Z"
+    created: "2023-06-21T20:06:09.894581603Z"
     description: A Helm chart for Kubernetes
     digest: ec53c39c7bceb1c49b483f0ff5732538b1949aa636086a5c1599c4b79e3911bd
     name: git-repo
@@ -11,4 +11,15 @@ entries:
     urls:
     - git-repo-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-21T19:56:26.513950894Z"
+  third:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-21T20:06:09.895084351Z"
+    description: A Helm chart for Kubernetes
+    digest: a578b76a6935b6c48c82a3731f81beeeda3f0165584d209b445a973df3a39c5b
+    name: third
+    type: application
+    urls:
+    - third-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-21T20:06:09.893866847Z"
